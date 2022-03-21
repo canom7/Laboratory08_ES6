@@ -1,1 +1,0 @@
-{"mappings":"AAAA,EAAY,AAAZ,UAAY;AAEZ,MAAM,CAAC,MAAM,GAAG,QAAQ,GAAG,CAAC;IACxB,oBAAoB;AACxB,CAAC","sources":["src/index.js"],"sourcesContent":["// index.js \r\n\r\nwindow.onload = function() {\r\n    printClientsAccounts();\r\n};\r\n  \r\n  "],"names":[],"version":3,"file":"index.579125c3.js.map","sourceRoot":"/__parcel_source_root/"}
